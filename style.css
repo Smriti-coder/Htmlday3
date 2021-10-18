@@ -1,0 +1,39 @@
+H1{
+  color: rgb(139, 6, 139) 
+  
+
+}
+ body{
+   background-color: #b26788;
+ }
+
+
+.images{
+  display: flex;
+  flex-wrap:wrap;
+  justify-content: space-between;
+}
+
+.photoImages{
+
+   display: flex;
+   justify-content:flex-end;
+   
+}
+
+p{
+
+   color: rgb(12, 12, 194);
+   font-size:14;
+}
+
+
+
+.header{
+
+    border: solid;
+    background-color:#f17e11;
+    font-size:14;
+
+
+}
